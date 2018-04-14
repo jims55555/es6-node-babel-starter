@@ -14,9 +14,3 @@ class Person {
 
 export { work, Person };
 export default Person;
-//
-// const person = msg => {
-//   console.log(msg);
-// };
-//
-// export default person;
