@@ -1,1 +1,0 @@
-{"version":3,"sources":["../server/main.js"],"names":["console","log"],"mappings":";;AAAA;;AAEAA,QAAQC,GAAR,CAAY,kBAAK,KAAL,CAAZ","file":"main.js","sourcesContent":["import { work } from './person';\n\nconsole.log(work('jim'));\n"]}
